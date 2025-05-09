@@ -61,3 +61,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Array: [2, 3, 4, 10, 40, 50, 60, 70]
+
+# === Iterative Binary Search ===
+# Element 10 found at index 3
+# Element 3 found at index 1
+# Element 99 not found in array
+
+# === Recursive Binary Search ===
+# Element 10 found at index 3
+# Element 3 found at index 1
+# Element 99 not found in array
